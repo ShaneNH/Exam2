@@ -21,15 +21,9 @@
     <ClCompile Include="Runner.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Directory.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Runner.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Directory.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
